@@ -1,0 +1,56 @@
+ 
+ 
+.section1{
+     text-align: center;
+     background-image: url(/images/firsbg.jpg)
+     
+ 
+}
+
+.top-button{
+    background-color: black;
+    display: inline-block;
+}
+.button{
+    background-image: linear-gradient(rgb(211, 195, 193),rgb(8, 94, 30));
+    color: rgb(27, 16, 16);
+    padding: 5px;
+    margin: 5px;
+    height: 20x;
+    width: 150px;
+    
+
+}
+#first-header{
+    background-image: linear-gradient(rgb(58, 148, 58),rgb(189, 126, 126));
+    display: inline-block;
+}
+.image{
+    height: 80px;
+    width: 80px;
+    border-radius: 80px;
+    align-items: center;
+    
+}
+.title-image{
+    align-items: center;
+}
+.shop-button{
+    margin-top: 20px;
+    align-items: center;
+    padding: 15px;
+    font-size: large;
+    background-color: rgb(65, 180, 65);
+    
+}
+ 
+.criteria-button{
+    margin-top: 20px;
+  background-color: chocolate;
+    display: inline-block;
+    padding: 5px;
+    
+   
+
+}
+ 
